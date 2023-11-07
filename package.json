@@ -11,12 +11,12 @@
   },
   "devDependencies": {
     "@nuxt/devtools": "latest",
-    "nuxt": "^3.8.0",
+    "nuxt": "^3.8.1",
     "vue": "^3.3.7",
     "vue-router": "^4.2.5"
   },
   "packageManager": "yarn@4.0.0",
   "dependencies": {
-    "date-fns": "^2.30.0"
+    "date-fns": "2.29.3"
   }
 }
